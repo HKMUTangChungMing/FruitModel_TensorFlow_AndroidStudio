@@ -226,10 +226,6 @@ files.download('model.tflite')
 ![image-20250425090647518](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250425090647518.png) 
 
 
-<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-194955.png" width="300" height="600"/>
-<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195209.png" width="300" height="600"/>
-<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195234.png" width="300" height="600"/>
-<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195251.png" width="300" height="600"/>
-<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195305.png" width="300" height="600"/>
-<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195318.png" width="300" height="600"/>
+<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-194955.png" width="300" height="600"/><img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195209.png" width="300" height="600"/><img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195234.png" width="300" height="600"/>
+<img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195251.png" width="300" height="600"/><img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195305.png" width="300" height="600"/><img src="http://pdm888.oss-cn-beijing.aliyuncs.com/img/Screenshot_20221108-195318.png" width="300" height="600"/>
 
